@@ -1,0 +1,9 @@
+{
+    "ground":
+    {
+        "0":{"title":"Entrance","description":"The entrance of the museum."}
+    },
+    "first":{
+        "0":{"title":"Stairs","description":"The stairs of the museum."}
+    }
+}
